@@ -9,7 +9,9 @@ This is only for study purposes.
 
 ### Sources
 
-Datasets obtained from [Kaggle](https://www.kaggle.com):
+Please download the following [Kaggle](https://www.kaggle.com) datasets:
 
 - [IMDb Dataset](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset)
 - [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+Save them on /data folder.
