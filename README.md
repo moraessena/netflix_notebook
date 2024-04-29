@@ -16,4 +16,5 @@ Please download the following [Kaggle](https://www.kaggle.com) datasets:
     - title.ratings.tsv
 - [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
     - netflix_titles.csv
+    
 Save them on /data folder.
